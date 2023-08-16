@@ -16,7 +16,7 @@ const Home = () => {
           </h1> 
 
           <p className="home-description">
-          I'm a India based web designer & front-end developer focused on crafting clean & user-friendly expriences, I'm paassionate about building excilent software that improves the lives of those areound me.
+          I'm an India based web designer & front-end developer focused on crafting clean & user-friendly expriences, I'm paassionate about building excilent software that improves the lives of those around me.
           </p>
 
           <Link to="./about" className='button'>
